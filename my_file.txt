@@ -1,3 +1,4 @@
 New line 1
 New line 2
-New line 3Append this text
+New line 3
+Append this text
