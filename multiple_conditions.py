@@ -14,8 +14,15 @@
 # Prints: x is greater
 
 # or expression is True, if at least one of the conditions is True.
-x, y, z = 7, 4, 9
-if x > y or x > z:
-    print('x is greater than y or z')
+# x, y, z = 7, 4, 9
+# if x > y or x > z:
+#     print('x is greater than y or z')
 
 # Prints: x is greater than y or z
+
+# not expression is True, if the condition is false.
+x, y = 7, 5
+if not x < y:
+    print('x is greater')
+
+# Print x is greater
